@@ -8,7 +8,7 @@ This dataset captures users' app usage patterns, demographics, preferences, and 
 | Age                        | int       | User's age |
 | Gender                     | category  | User's gender identity |
 | Location                   | category  | User's city of residence |
-| Education                  | category  | Highest completed education level |
+| Education                  | category  | Highest completed education lev el |
 | Occupation                 | category  | Job role or employment status |
 | Primary_App                | category  | User's preferred dating app |
 | Secondary_Apps             | category  | Other dating apps the user engages with |
